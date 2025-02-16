@@ -12,8 +12,7 @@ Security Resources Directory
 |---|---|
 |Compass Security Cheat Sheet | https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet|
 |Web Attack Cheat Sheet| https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet |
-
-https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
+<br/>
 
 ## References Architectures
 
