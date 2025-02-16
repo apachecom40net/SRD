@@ -1,11 +1,11 @@
 # SRD
-Security Resurces Directory
+Security Resources Directory
 
 ## People
 
 |People|Descripton|
 |---|---|
-|Gitleaks Tool Mainteiner|[bufferoverfload](https://github.com/bufferoverflow)|
+|Gitleaks Tool Mainteiner|[bufferoverflow](https://github.com/bufferoverflow)|
 
 ## Tools
 
